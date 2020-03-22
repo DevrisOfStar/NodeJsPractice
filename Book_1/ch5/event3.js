@@ -1,4 +1,4 @@
-// EventEmitter 객체 생성 
+// EventEmitter 객체 생성
 var events = require('events')
 var custom = new events()
 
